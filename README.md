@@ -4,9 +4,9 @@ Self-study for the Cisco CCNA 200-301 exam (target: 2026-11-05) with Cisco Packe
 
 | | |
 |---|---|
-| Plan progress | 4 / 62 items (6%) |
+| Plan progress | 5 / 62 items (8%) |
 | Labs completed | 1 |
-| English summaries | 2 |
+| English summaries | 3 |
 | Level | 3 (Ping Pusher) |
 | Longest streak | 2 days |
 
@@ -16,7 +16,7 @@ Self-study for the Cisco CCNA 200-301 exam (target: 2026-11-05) with Cisco Packe
 - [x] 09-23 Sections 3–4: host-to-host basics, the IOS operating system
 - [x] 09-23 Lab 04: The IOS Operating System
 - [x] 09-24 Sections 5–6: transport layer (TCP/UDP), the IP header
-- [ ] 09-25 Sections 7–8: IP address classes, subnetting (CIDR, VLSM)
+- [x] 09-25 Sections 7–8: IP address classes, subnetting (CIDR, VLSM)
 - [ ] 09-26 Sections 9–11: data-link/physical layers, Cisco device functions
 - [ ] 09-26 Lab 11: Cisco Device Functions
 - [ ] 09-28 Section 12: DNS, ARP, the life of a packet
@@ -103,3 +103,7 @@ I made up my mind to get my CCNA certification about a month ago. Today, I want 
 ### 2026-09-24
 
 Studying every day is sometimes boring and hard. But if I keep at it every day, I will see results someday. And I enjoy the process.
+
+### 2026-10-01
+
+I've fallen behind on my study schedule. After Chuseok, my routine got messed up. I want to get back on track.
