@@ -4,10 +4,10 @@ Self-study for the Cisco CCNA 200-301 exam (target: 2026-11-05) with Cisco Packe
 
 | | |
 |---|---|
-| Plan progress | 5 / 62 items (8%) |
+| Plan progress | 7 / 62 items (11%) |
 | Labs completed | 1 |
-| English summaries | 3 |
-| Level | 3 (Ping Pusher) |
+| English summaries | 4 |
+| Level | 4 (Ping Pusher) |
 | Longest streak | 2 days |
 
 ## Week 1: Networking fundamentals (Sections 1–12)
@@ -17,9 +17,9 @@ Self-study for the Cisco CCNA 200-301 exam (target: 2026-11-05) with Cisco Packe
 - [x] 09-23 Lab 04: The IOS Operating System
 - [x] 09-24 Sections 5–6: transport layer (TCP/UDP), the IP header
 - [x] 09-25 Sections 7–8: IP address classes, subnetting (CIDR, VLSM)
-- [ ] 09-26 Sections 9–11: data-link/physical layers, Cisco device functions
+- [x] 09-26 Sections 9–11: data-link/physical layers, Cisco device functions
 - [ ] 09-26 Lab 11: Cisco Device Functions
-- [ ] 09-28 Section 12: DNS, ARP, the life of a packet
+- [x] 09-28 Section 12: DNS, ARP, the life of a packet
 - [ ] 09-28 Lab 12: The Life of a Packet
 
 ## Week 2: IOS basics, troubleshooting, routing fundamentals (Sections 13–19)
@@ -107,3 +107,7 @@ Studying every day is sometimes boring and hard. But if I keep at it every day, 
 ### 2026-10-01
 
 I've fallen behind on my study schedule. After Chuseok, my routine got messed up. I want to get back on track.
+
+### 2026-10-02
+
+Today, I learned how a DNS server turns a domain name into an IP address, so my computer knows where to connect. I also learned how ARP finds the MAC address of the next device on the local network. Together with the routing table, ARP helps data move hop by hop to its destination.
